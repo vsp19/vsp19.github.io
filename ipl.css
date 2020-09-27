@@ -1,0 +1,83 @@
+body{
+	font-size:15pt;
+	font-family:"comic sans ms";
+	font-weight:bold;
+	font-style:italic;
+	background-color:#FFFFFF;
+}
+h1{
+	font-size:20pt;
+	text-align: center;
+	font-family:"Algerian";
+	color:cyan;
+}
+a{
+	margin-left: 1cm;
+}
+a.csk{
+	color:yellow;
+}
+.mi{
+    color: navy;
+}
+.rr{
+	color:pink;
+}
+.dc{
+    color: blue;
+}
+
+.rcb{
+	color:darkred;
+}
+.kxip{
+	color:red;
+}
+.srh{
+	color:orange;
+}
+.kkr{
+	color:purple;
+}
+p.info{
+	font-weight:normal;
+	font-style:italic;
+	font-family:"blackladder itc";
+	color:chocolate;
+	text-align: center;
+}
+div.schedule{
+	background: #66bfbf;
+	text-align: center;
+}
+.squad{
+	background: burlywood;
+	text-align: center;
+}
+.copy{
+	background: royalblue;
+	text-align: center;
+}
+p.cr{
+	color: orange;
+	font-weight: bold;
+	font-family: cursive;
+	font-size: 15pt;
+	text-align: center;
+}
+img.img{
+	width:300px;
+	height:300px;
+}
+.me{
+	width: 300px;
+	height: 300px;
+}
+.logo{
+	width: 50px;
+	height: 50px;
+	position: relative;
+}
+hr.big{
+    outline-style: groove;
+}

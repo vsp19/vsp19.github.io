@@ -1,0 +1,63 @@
+body{
+    background-color: darkorchid;
+}
+div.bats{
+    background-color: yellow;
+}
+.wb{
+    background-color: teal;
+}
+.all{
+    background-color: chocolate;
+}
+.bowl{
+    background-color: crimson;
+}
+.copy{
+	background: royalblue;
+}
+p.cr{
+	color: orange;
+	font-weight: bold;
+	font-family: cursive;
+    font-size: 15pt;
+    text-align: center;
+}
+h3.discipline{
+    font-weight: bold;
+    font-size: 18pt;
+    font-family: "comic sans ms";
+    text-align:center;
+    color: navy;
+}
+h1.teamname{
+    font-weight: bold;
+    font-size: 24pt;
+    font-family: "Algerian";
+    text-align: center;
+    color: lawngreen;
+}
+ol.list{
+    font-weight: bold;
+    font-size: 15pt;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 2cm;
+    color: rgb(16, 36, 218);
+}
+img.plane{
+    width: 12.5pt;
+    height: 12.5pt;
+}
+.players{
+    width: 100pt;
+    height: 100pt;
+    padding-left: 50%;
+}
+hr.big{
+    outline-style: groove;
+}
+a.ipl{
+    color: ivory;
+    text-align: right;
+    font-family: "vivaldi";
+}

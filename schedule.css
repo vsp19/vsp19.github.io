@@ -1,0 +1,91 @@
+body{
+    background-color: darkorchid;
+}
+h1.teamname{
+    font-weight: bold;
+    font-size: 24pt;
+    font-family: "Algerian";
+    text-align: center;
+    color: lawngreen;
+}
+table{
+    font-weight: bold;
+    font-family: 'comic sans ms';
+    font-size: 15pt;
+    color: gold;
+    border: groove;
+    width: 100%;
+}
+th{
+    color: indianred;
+    font-size: 21pt;
+    font-family: 'blackladder itc';
+}
+a.ipl{
+    color: ivory;
+    text-align: right;
+    font-family: "vivaldi";
+}
+div.data{
+    background-color: teal;
+}
+.copy{
+	background: royalblue;
+}
+p.cr{
+	color: orange;
+	font-weight: bold;
+	font-family: cursive;
+    font-size: 15pt;
+    text-align: center;
+}
+td.csk{
+    color: yellow;
+}
+.mi{
+    color: navy;
+}
+.dc{
+    color: blue;
+}
+.kkr{
+    color: purple;
+}
+.kxip{
+    color: red;
+}
+.rcb{
+    color: darkred;
+}
+.rr{
+    color: deeppink;
+}
+.srh{
+    color: orange;
+}
+.sb{
+    color: sienna;
+}
+.db{
+    color: snow;
+}
+.ad{
+    color: wheat;
+}
+.s{
+    color: darkred;
+}
+.t{
+    color: lightpink;
+}
+img.logo{
+	width: 50px;
+	height: 50px;
+	position: relative;
+}
+hr.big{
+    outline-style: groove;
+}
+td{
+    text-align: center;
+}
